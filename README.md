@@ -1,6 +1,10 @@
 ## AlphaNews( show worldwide headline)
 -> Each headline is clickable. 
 
+## tech used:-
+
+API/Glide library/recycler view/volley library/kotlin/xml/ chrome custom tabs.
+
 -> you can click on headline and it will open an article of that news in the app(no need to go to chrome or any browser)
 
 1) When you open app a splash screen will get displayed first.
