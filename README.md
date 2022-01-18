@@ -1,6 +1,7 @@
 ## AlphaNews( show worldwide headline)
--> Each headline is clickable.
--> you can click on headline and it will open and article of that new in the app(no need to go to chrome or any browser)
+-> Each headline is clickable. 
+
+-> you can click on headline and it will open an article of that news in the app(no need to go to chrome or any browser)
 
 1) When you open app a splash screen will get displayed first.
 ![WhatsApp Image 2022-01-18 at 4 12 39 PM (3)](https://user-images.githubusercontent.com/88109183/149922458-abed6654-badd-47bf-9b68-94a48c23ac80.jpeg)
